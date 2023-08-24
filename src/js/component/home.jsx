@@ -1,3 +1,4 @@
+import React from 'react'
 import { NavBar } from "../../components/navbar";
 import { Footer } from "../../components/footer";
 import { Header } from "../../components/header";
@@ -9,7 +10,7 @@ export default function Home() {
 
         {/* Navbar */}
         <NavBar />
-        <h1>hola</h1>
+        
         
         {/*header*/}
         <Header />
@@ -21,5 +22,5 @@ export default function Home() {
         <Footer />
 
         </>
-    )
+    );
 }
