@@ -3,9 +3,21 @@
     justify-content: center !important;
     width: auto;
     margin: auto;
-
-
 }
+
+.card {
+    margin-right: 80px;
+}
+
+.display-flex {
+    padding-left: 40px;
+    
+}
+
+.custom-left-button {
+    float: left;
+}
+
 /* 
 
     You can write your own styles here...

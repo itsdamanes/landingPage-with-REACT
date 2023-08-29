@@ -4,7 +4,7 @@ export const Section = () => {
   return (
     <>
       {/*CARD SECTION*/}
-      <div className= "display-flex">
+      <div className= "display-flex" >
 
 
         <div className="card" style={{ width: '18rem' }}>
